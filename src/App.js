@@ -5,7 +5,7 @@ import Balance from "./components/Balance";
 import IncomeExpenses from "./components/IncomeExpenses";
 import TransactionList from "./components/TransactionList";
 import AddTransaction from "./components/AddTransaction";
-import GlobeStateProvider, { GlobleContext } from "./context/GlobleState";
+import GlobeStateProvider from "./context/GlobleState";
 
 function App() {
   // const [text, setText] = useState("");
